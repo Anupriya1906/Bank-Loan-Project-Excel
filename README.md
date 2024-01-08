@@ -3,7 +3,7 @@ This project demonstrates the end-to-end process of designing a comprehensive da
 
 ![image](Summary Dashboard.png)
 
-![image](Overview Dashboard.png)
+![image] (Overview Dashboard.png)
 
 ## Contributions
 

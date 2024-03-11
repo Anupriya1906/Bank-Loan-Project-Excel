@@ -7,6 +7,4 @@ This project demonstrates the end-to-end process of designing a comprehensive da
 ## Overview Page
 ![image](OverviewDashboard.png)
 
-## Contributions
 
-Contributions are welcome! Feel free to open issues or pull requests for improvements, bug fixes, or additional features.
